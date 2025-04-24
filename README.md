@@ -16,4 +16,4 @@ npm run dev
 
 
 ## 🚀 Deploy Status
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/YOUR_USERNAME/video-notes-app)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/opinivisual/video-notes-app)
