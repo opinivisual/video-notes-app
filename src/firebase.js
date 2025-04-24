@@ -2,12 +2,12 @@ import { initializeApp } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyEXAMPLE1234567890",
-  authDomain: "your-project-id.firebaseapp.com",
-  projectId: "your-project-id",
-  storageBucket: "your-project-id.appspot.com",
-  messagingSenderId: "123456789012",
-  appId: "1:123456789012:web:abcdefghij"
+   apiKey: "AIzaSyDqC2OcqbBTWGGI6Qn46KNg8kMQ9_dRVeE",
+  authDomain: "kumien-b2486.firebaseapp.com",
+  projectId: "kumien-b2486",
+  storageBucket: "kumien-b2486.firebasestorage.app",
+  messagingSenderId: "872654517059",
+  appId: "1:872654517059:web:9408a7b3c621aee53e75f6",
 };
 
 const app = initializeApp(firebaseConfig);
